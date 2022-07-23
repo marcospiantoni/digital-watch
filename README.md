@@ -1,5 +1,7 @@
 <h1> Relógio digital  </h1>
 
+![image](https://user-images.githubusercontent.com/100890415/180613038-90ccdb00-34e8-4285-b0d2-81b4ccdb39c1.png)
+
 > Status: Projeto finalizado ✔️
 
 <h1> Sobre o projeto </h1>
