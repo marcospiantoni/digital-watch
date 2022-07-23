@@ -10,7 +10,7 @@
 
 <h1> Ideia do projeto </h1>
 
-###  "Praticar js" se quiser ver: 
+###  "Praticar js" se quiser ver: https://digital-watch-3kig0w5jl-marcospiantoni.vercel.app/
   
    
 <h1> Por quê? </h1> 
